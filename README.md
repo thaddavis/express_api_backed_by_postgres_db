@@ -7,6 +7,7 @@ Hopefully this is self documenting : ). Here is a reference implementation for a
 - Kubernetes knowledge
 - Node.js Express knowledge
 - PostgreSQL knowledge
+- Minikube knowledge
 
 ## Overview
 
